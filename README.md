@@ -32,7 +32,7 @@ Once initialized, the UI flows smoothly without lag.
 ```
 python_project/
 │
-├── Images/                         Contains all 127 hotel & food images
+├── Images(Contains all 127 hotel & food images)/                         
 │
 ├── Some_screenshot_of_the_app_here/  # Actual project screenshots
 │   ├── Screenshot (11).png
