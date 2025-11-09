@@ -15,7 +15,9 @@ The project features over **127 local food and hotel images**, showcasing Python
 - 📋 **Category-based Menu Navigation** — Veg, Non-Veg, and Specials  
 - 💰 **Dynamic Bill Calculation System** with quantity-based pricing  
 - 🏨 **Inspired by a Real Hotel** *(educational use only)*  
-- 🧱 **Modular Code Structure** — easily expandable and customizable  
+- 🧱 **Modular Code Structure** — easily expandable and customizable
+- 📲 **API Integration Ready** — previously integrated with **Twilio SMS API** for order notifications (later removed due to security reasons).  
+  You can easily integrate **any API** (email, SMS, or webhook) inside the **Tkinter messagebox-triggering function**, and it will work seamlessly.    
 - 🎓 **Educational Focus** — perfect for students learning Python’s logic and structure  
 
 ---
