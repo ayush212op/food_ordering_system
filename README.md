@@ -7,7 +7,6 @@
 ### 🎯 *A Complete Offline Restaurant Simulation Built with Python & CustomTkinter*
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-Educational-blue)](#)
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red)](#)
 
 </div>
