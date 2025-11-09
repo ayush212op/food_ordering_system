@@ -1,42 +1,68 @@
 <div align="center">
-  <img src="Some_screenshot_of_the_app_here/Screenshot (11).png" width="700" alt="Hotel Food Ordering System Banner"/>
+
+<img src="Some_screenshot_of_the_app_here/Screenshot (11).png" width="750" alt="Hotel Food Ordering System Banner"/>
+
+# 🍽️ **Hotel Food Ordering System — Python Project**
+
+### 🎯 *A Complete Offline Restaurant Simulation Built with Python & Tkinter*
+
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-Educational-blue)](#)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](#)
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red)](#)
+
 </div>
 
-# 🍽️ Hotel Food Ordering System — Python Project  
+---
 
-A clean and visually rich **Hotel Food Ordering System** built in **Python**, designed to simulate a real-world restaurant ordering experience.  
-The project features over **127 local food and hotel images**, showcasing Python’s capabilities in handling data, visuals, and user interaction seamlessly — all offline.
+## 🧾 Overview
+
+A clean, visually rich **Hotel Food Ordering System** built entirely in **Python**, designed to simulate a real-world restaurant ordering experience.  
+The project features **127+ local food & hotel images**, showcasing Python’s capability to handle **UI, data, and visuals** seamlessly — all **offline**.
+
+> 💡 Ideal for diploma and B.Tech students exploring **Python GUI projects** with Tkinter.
 
 ---
 
 ## 🚀 Features
 
-- 🖼️ **127+ Food & Hotel Images** stored locally for an offline experience  
-- 📋 **Category-based Menu Navigation** — Veg, Non-Veg, and Specials  
-- 💰 **Dynamic Bill Calculation System** with quantity-based pricing  
-- 🏨 **Inspired by a Real Hotel** *(educational use only)*  
-- 🧱 **Modular Code Structure** — easily expandable and customizable
-- 📲 **API Integration Ready** — previously integrated with **Twilio SMS API** for order notifications (later removed due to security reasons).  
-  You can easily integrate **any API** (email, SMS, or webhook) inside the **Tkinter messagebox-triggering function**, and it will work seamlessly.    
-- 🎓 **Educational Focus** — perfect for students learning Python’s logic and structure  
+✅ **127+ Food & Hotel Images** — completely offline visual assets  
+✅ **Category-based Menu Navigation** — Veg, Non-Veg & Specials  
+✅ **Dynamic Bill Calculation System** — with quantity-based pricing  
+✅ **API Integration Ready** — previously integrated with **Twilio SMS API** for order notifications *(removed for security reasons)*  
+➡️ You can plug **any API (SMS, Email, Webhook)** inside the `tkinter.messagebox` trigger and it’ll work instantly  
+✅ **Modular, Expandable Codebase** — easy to scale and maintain  
+✅ **Educational Focus** — built with learning clarity in mind  
 
 ---
 
 ## ⚙️ Performance Note
 
-During the **first load**, image rendering may feel slightly slow due to local caching.  
-Once initialized, the UI flows smoothly without lag.
+The **first load** may feel slightly slow due to local image caching.  
+Once initialized, the UI runs buttery-smooth — even with multiple menu images rendered simultaneously.
+
+---
+
+## 🧠 Tech Stack
+
+| Category | Details |
+|-----------|----------|
+| **Language** | Python |
+| **GUI Library** | Tkinter |
+| **Modules Used** | `os`, `sys`, `time`, `random` |
+| **Assets** | 127+ `.jpg` & `.png` images (all stored locally) |
+| **Optional** | Twilio API (for SMS notifications, previously integrated) |
 
 ---
 
 ## 📂 Folder Structure
 
-```
+```text
 python_project/
 │
-├── Images(Contains all 127 hotel & food images)/                         
+├── Images/                              # Contains all 127 hotel & food images
 │
-├── Some_screenshot_of_the_app_here/  # Actual project screenshots
+├── Some_screenshot_of_the_app_here/     # Actual project screenshots
 │   ├── Screenshot (11).png
 │   ├── Screenshot (12).png
 │   ├── Screenshot (13).png
@@ -46,46 +72,46 @@ python_project/
 │   ├── Screenshot (17).png
 │   └── Screenshot (18).png
 │
-├── learning_customtkinter.py         # Experimental CTkinter learning file
-├── python_project.py                 # Main executable project script
-└── README.md                         # Project documentation
-```
-
----
-
-## 🧠 Tech Stack
-
-- **Language:** Python  
-- **Libraries Used:** os, sys, time, random  
-- **Assets:** 127+ locally stored `.jpg` & `.png` images  
-
+├── learning_customtkinter.py            # Experimental CTkinter learning file
+├── python_project.py                    # Main executable project script
+└── README.md                            # Project documentation
 ---
 
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="Some_screenshot_of_the_app_here/Screenshot (11).png" width="300" alt="App Screenshot 1"/>
-  <img src="Some_screenshot_of_the_app_here/Screenshot (12).png" width="300" alt="App Screenshot 2"/>
-  <img src="Some_screenshot_of_the_app_here/Screenshot (13).png" width="300" alt="App Screenshot 3"/>
-  <img src="Some_screenshot_of_the_app_here/Screenshot (14).png" width="300" alt="App Screenshot 4"/>
-  <img src="Some_screenshot_of_the_app_here/Screenshot (15).png" width="300" alt="App Screenshot 5"/>
-  <img src="Some_screenshot_of_the_app_here/Screenshot (16).png" width="300" alt="App Screenshot 6"/>
-  <img src="Some_screenshot_of_the_app_here/Screenshot (17).png" width="300" alt="App Screenshot 7"/>
-  <img src="Some_screenshot_of_the_app_here/Screenshot (18).png" width="300" alt="App Screenshot 8"/>
+
+| | | |
+|:-:|:-:|:-:|
+| <img src="Some_screenshot_of_the_app_here/Screenshot (11).png" width="250"/> | <img src="Some_screenshot_of_the_app_here/Screenshot (12).png" width="250"/> | <img src="Some_screenshot_of_the_app_here/Screenshot (13).png" width="250"/> |
+| <img src="Some_screenshot_of_the_app_here/Screenshot (14).png" width="250"/> | <img src="Some_screenshot_of_the_app_here/Screenshot (15).png" width="250"/> | <img src="Some_screenshot_of_the_app_here/Screenshot (16).png" width="250"/> |
+| <img src="Some_screenshot_of_the_app_here/Screenshot (17).png" width="250"/> | <img src="Some_screenshot_of_the_app_here/Screenshot (18).png" width="250"/> | |
+
 </div>
 
 ---
 
 ## 🏪 Disclaimer
 
-The hotel name and references used are **for educational purposes only**.  
-No commercial usage or brand association is implied.  
-All images are locally stored and intended solely for **learning demonstration**.
+The hotel name and menu references are **strictly for educational purposes**.  
+This project holds **no commercial or brand association**.  
+All images are stored locally and used only for **learning demonstrations**.
 
 ---
 
 ## 👨‍💻 Developer
 
 **Ayush**  
-Diploma Student in AIML | Exploring Python, Data Science & AI  
-> *"Code is logic in motion — make it move beautifully."*
+🎓 Diploma Student in AIML | 💡 Exploring Python, Data Science & AI  
+
+> _"Code is logic in motion — make it move beautifully."_  
+
+---
+
+<div align="center">
+
+⭐ *If you like this project, give it a star on GitHub!* ⭐  
+<br>
+📬 *Suggestions or improvements? Feel free to open a pull request!*
+
+</div>
