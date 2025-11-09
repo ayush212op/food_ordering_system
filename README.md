@@ -57,7 +57,7 @@ Once initialized, the UI runs buttery-smooth — even with multiple menu images 
 
 ## 📂 Folder Structure
 
-```text
+
 python_project/
 │
 ├── Images/                              # Contains all 127 hotel & food images
@@ -75,7 +75,6 @@ python_project/
 ├── learning_customtkinter.py            # Experimental CTkinter learning file
 ├── python_project.py                    # Main executable project script
 └── README.md                            # Project documentation
----
 ---
 ## 📸 Screenshots
 
