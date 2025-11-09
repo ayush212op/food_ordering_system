@@ -8,7 +8,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-Educational-blue)](#)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](#)
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red)](#)
 
 </div>
@@ -48,7 +47,7 @@ Once initialized, the UI runs buttery-smooth — even with multiple menu images 
 | Category | Details |
 |-----------|----------|
 | **Language** | Python |
-| **GUI Library** | Tkinter |
+| **GUI Library** | Custom Tkinter,   Tkinter |
 | **Modules Used** | `os`, `sys`, `time`, `random` |
 | **Assets** | 127+ `.jpg` & `.png` images (all stored locally) |
 | **Optional** | Twilio API (for SMS notifications, previously integrated) |
@@ -57,7 +56,7 @@ Once initialized, the UI runs buttery-smooth — even with multiple menu images 
 
 ## 📂 Folder Structure
 
-
+```text
 python_project/
 │
 ├── Images/                              # Contains all 127 hotel & food images
