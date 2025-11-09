@@ -74,6 +74,7 @@ python_project/
 ├── learning_customtkinter.py            # Experimental CTkinter learning file
 ├── python_project.py                    # Main executable project script
 └── README.md                            # Project documentation
+```
 ---
 ## 📸 Screenshots
 
