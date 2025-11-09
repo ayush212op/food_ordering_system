@@ -4,7 +4,7 @@
 
 # 🍽️ **Hotel Food Ordering System — Python Project**
 
-### 🎯 *A Complete Offline Restaurant Simulation Built with Python & Tkinter*
+### 🎯 *A Complete Offline Restaurant Simulation Built with Python & CustomTkinter*
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-Educational-blue)](#)
@@ -29,7 +29,7 @@ The project features **127+ local food & hotel images**, showcasing Python’s c
 ✅ **Category-based Menu Navigation** — Veg, Non-Veg & Specials  
 ✅ **Dynamic Bill Calculation System** — with quantity-based pricing  
 ✅ **API Integration Ready** — previously integrated with **Twilio SMS API** for order notifications *(removed for security reasons)*  
-➡️ You can plug **any API (SMS, Email, Webhook)** inside the `tkinter.messagebox` trigger and it’ll work instantly  
+➡️ You can plug **any API (SMS, Email, Webhook)** inside the `tkinter.messagebox` trigger functions (4-5 func total) and it’ll work instantly  
 ✅ **Modular, Expandable Codebase** — easy to scale and maintain  
 ✅ **Educational Focus** — built with learning clarity in mind  
 
